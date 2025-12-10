@@ -5,7 +5,7 @@ publishDate: "31 Dec 2023"
 tags: ["personal", "blog"]
 ---
 
-![Stack of books with a clock](./23books.jpg "New reference books on my desk")
+![Stack of books with a clock](./blog/23books.jpg "New reference books on my desk")
 
 I managed to read 64 books this year and my pace definitely increased after buying a new Kindle for Prime day. Overall, I read a lot of “fun” books and a few non-fiction, too. I even accidentally read my first romance book? And then a few more not accidentally???
 
