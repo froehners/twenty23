@@ -65,7 +65,7 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - Often new OSs are more successful than more experienced ones, but it takes time to learn the system and the script
 - **OSs need to have energy and enthusiasm when they talk to members**
 >I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her. 
-*- Recently consented member*
+  -- Recently consented member*
 
 ## OS Leads and Stakeholder Interviews
 - **Biggest need: Integrated tools for tracking OS performance and smart campaign experimentation**
@@ -109,39 +109,38 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 ## MVP Features
 ### Notes
 ![Notes animation](./outreach-hub/outreachnote.gif) 
-- This is where you will document the member call. 
-- Use this note instead of launching the Outreach / Intake modal from Actions. 
-- If you consent a member, you can add a handoff template 
-- An update to this feature is in progress. Soon this will look more like the feature-rich notes on the Timeline page.
+- This is where OSs document the member call. 
+- This note replaces launching the Outreach / Intake modal from Actions. 
+- If an OS consents a member, then they can also add a handoff template 
 ### Outreach & Claims History
 ![History animation](./outreach-hub/claimshistory.gif) 
-- **Outreach History** gives a snapshot of who on the Cityblock team the member has spoken to thus far. This helps to you pick up where other conversations left off.
+- **Outreach History** gives a snapshot of who on the Cityblock team the member has spoken to thus far. This helps The OSs to pick up where other conversations left off.
 - **Claims History** is shortcut to get a picture of a member’s history and recent care.
 - You can click to expand and read details.
 ### Associated Phone Numbers
 ![Phone number list](./outreach-hub/phonenumbers.png) 
 - The phone number with the star in a circle is the member’s primary phone number.
 - The other numbers are from the Member Info page.
-- Click the phone icon on the right to call.
+- This widget gathers any numbers that might help the OS reach the member
+- OSs can now click the phone icon on the right to call (instead of copying the number and pasting it into the calling app).
 ### Verbal Member Consent Documents
 ![Conset document list](./outreach-hub/verbalconsents.png) 
-- This widget is a shortcut to the consent documents completed over the phone. 
-- Click the document to open and complete.
-- All other consent documents are in the “Documents” page on the member’s profile. 
-- After MVP, we planned to cheat the performance problems by pre-filling the forms - the OS would say the member consented, then generate all the proper documents with a click. 
+- OSs no longer have to scroll through the many documents in a member's profile; this widget is a shortcut to the consent documents completed over the phone. 
+- They can click the document to open and complete.
+- All other consent documents are still in the “Documents” page on the member’s profile. 
+- After MVP, we planned to cheat some performance problems by pre-filling the forms - the OS would say the member consented, then generate all the proper documents with a click. 
 ### Team
 ![Teams widget](./outreach-hub/Team.gif) 
-- Click the yellow button to add an emergency contact.
-- You can add any type of the member’s team from this widget by clicking the plus icon in the top right corner of the widget.
-- To edit the team, click “Team” at the top of the widget or go to that page from the navigation.
+- This widget helps the OS know what is still incomplete - they can click the yellow button to add an emergency contact.
+- They can add any type of the member’s team from this widget by clicking the plus icon in the top right corner of the widget.
 ### Assessments & Tools
 ![Tools - new](./outreach-hub/assessment1.png) 
 ![Tools - in progress](./outreach-hub/assessment2.png) 
-- This widget is another shortcut to commonly used Assessments & Tools.
-- You can also view previously completed Assessments & Tools or continue editing a draft.
-- ### Quality Opportunities
-- ![List of opportunities](./outreach-hub/qualityopps.png) 
-- Quality opportunities are another way to approach discussing a member’s needs
+- This widget is another shortcut to commonly used Assessments & Tools (preventing the OS from navigating away and needing to search for the desired tool).
+- Oss can also view previously completed Assessments & Tools or continue editing a draft.
+### Quality Opportunities
+![List of opportunities](./outreach-hub/qualityopps.png) 
+- Quality opportunities are another way to approach discussing a member’s needs. The OS can try scheduling open quality opportunities to get the member onboard.
 
 ## Rollout
 Our team had 1 launch goal: Every OS tries it at least 1x in the first 2 weeks of release.  
