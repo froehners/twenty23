@@ -135,12 +135,12 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 - You can add any type of the member’s team from this widget by clicking the plus icon in the top right corner of the widget.
 - To edit the team, click “Team” at the top of the widget or go to that page from the navigation.
 ### Assessments & Tools
-![Tools - new](./assessment1.png) 
-![Tools - in progress](./assessment2.png) 
+![Tools - new](./outreach-hub/assessment1.png) 
+![Tools - in progress](./outreach-hub/assessment2.png) 
 - This widget is another shortcut to commonly used Assessments & Tools.
 - You can also view previously completed Assessments & Tools or continue editing a draft.
 - ### Quality Opportunities
-- ![List of opportunities](./qualityopps.png) 
+- ![List of opportunities](./outreach-hub/qualityopps.png) 
 - Quality opportunities are another way to approach discussing a member’s needs
 
 ## Rollout
