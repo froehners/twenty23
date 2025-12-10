@@ -34,7 +34,7 @@ tags: ["LegalZoom", "UX Design", "User Research", "Prototyping"]
 ### Behavioral Design Workshop Evaluation
 
 #### Step 1: The Quiz
-![Original Experience Step 1](./og-q1.png)
+![Original Experience Step 1](./legalzoom/og-q1.png)
 - Currently an unordered group of 9 items.
     - Studies have shown people make decisions easier with less choices.
     - It’s difficult to predict content when there is no order.
@@ -42,7 +42,7 @@ tags: ["LegalZoom", "UX Design", "User Research", "Prototyping"]
 - Language may not match how customers classify their work.
 
 #### Step 2: Recommendation Page
-![Original Experience Recommendation Page](./og-results.png)
+![Original Experience Recommendation Page](./legalzoom/og-results.png)
 - Data/reasoning behind the results is not included. Users expect to be aided in decisions. Not all results provide a clear recommendation or a way to decide on a product.
 - Pricing and packages and LegalZoom’s role are not clear on results page.
 - Do users expect to find out what protection our IP services offer, timelines, and level of effort?
@@ -73,13 +73,13 @@ tags: ["LegalZoom", "UX Design", "User Research", "Prototyping"]
 I picked about 20 commonly protected works (e.g. photograph, process, book, invention, logo, song) from the United States Patent & Trademark Office, various online services—including LegalZoom—and asked participants to sort the cards into groups and answer a short survey.
 
 #### Phase 1: Open
-![Open Card Sorting](./cs-open.png)
+![Open Card Sorting](./legalzoom/cs-open.png)
 - Participants were tasked to create and name their own categories.
 - "Art" cards were overwhelmingly the easiest for folks categorize. Second was "business" - sometimes called “branding.”
 - Seeing all the cards in groups helped solidify their classification *(like partitioning/the power of groups from the workshop!)*.
 
 #### Phase 2: Hybrid
-![Hybrid Card Sorting](./cs-hybrid.png)
+![Hybrid Card Sorting](./legalzoom/cs-hybrid.png)
 - I provided 3 categories from the Open results. Two categories were clear winners from the Open Card Sorting, the 3rd was experimental.
 - Works that would require patents emerged as the hardest IP to categorize. (Low patent numbers site analytics too).
 
@@ -87,21 +87,21 @@ I picked about 20 commonly protected works (e.g. photograph, process, book, inve
 The variations are content-driven; the team decided to use the existing questionnaire component of the design system. Participants only saw one version and the results were compared. They had the same results pages.
 
 #### Version 1: Optimized
-![Version 1](./HMD-V1.png)
+![Version 1](./legalzoom/HMD-V1.png)
 - Keep the 1-question flow, but reduce the number of options to broad categories and add descriptions.
 - **Hypotheses:**
     - Participants will be more successful if we reduce the number of options. The legal team and copywriters felt comfortable combining the “Art” choices since most of the card sorting participants always grouped those together.
     - Educating the users with descriptions and friendlier language will clarify the options. The confusing cards from the card sorting study were added as examples in the descriptions.
 
 #### Version 2: Experimental
-![Version 2](./HMD-V2.png)
+![Version 2](./legalzoom/HMD-V2.png)
 - Make a 2-question flow, partition people into roles (business owner, artist, or inventor) and have more specific choices on the second screen.
 - **Hypotheses:**
     - If we use nouns to trigger group membership, users will feel more motivated to complete the first question. Adding a second, more meaningful question will improve the inconsequential feeling of the 1-question live experience.
     - We can reduce errors by utilizing the power of groups/partitioning and encourage people to think more about their selection. This is also an opportunity to add more choices - as card-sorting participants understood IP better when they could see the groups.
 
 #### Recommendation Page
-![New Recommendation Page](./Pr-rec.png)
+![New Recommendation Page](./legalzoom/Pr-rec.png)
 - Added clearer recommendation language, pricing, why consider a product, clear ways to get help, and educational content.
 - Utilized pricing card, attorney/customer support, and article components from the design system.
 - Experimenting to see how much can we reuse and where we need to invest more into the experience.
