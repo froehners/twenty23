@@ -1,6 +1,6 @@
 ---
 title: "2024 Books in Review"
-description: "I just had fun with reading this year."
+description: "I just had fun with reading this year, and didn't take it too seriously!"
 publishDate: "31 Dec 2024"
 tags: ["personal", "blog"]
 ---
