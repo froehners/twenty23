@@ -22,11 +22,11 @@ I interacted with our audience through YouTube comments, emails and social media
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HChusFnyVzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-![Screenshot of a comment that says: I'm literally at a party right now watching this!](./WC_comment.png "YouTube Comment")
+![Screenshot of a comment that says: I'm literally at a party right now watching this!](./mahalo/WC_comment.png "YouTube Comment")
 
 My visual design roles in this project include designing thumbnails for each YouTube video (taking into account the various device and viewport sizes of YouTube), creating and maintaining the website, so viewers could download the .pdf content, and creating assets for the social media accounts.
 
-![The tumblr page](./WC_tumblr.webp "Homepage")
+![The tumblr page](./mahalo/WC_tumblr.webp "Homepage")
 
 # A message to our Wellcasters
 I still get emails and DMs from folks around the world asking about this show. If you're a Wellcaster reading this, thank you for your support! We're so grateful to have found you. Unfortunately, the creative team behind the show do not own or manage the YouTube channel and we will not be coming back to it. We'll never forget how much fun we had making a show for you though! 
