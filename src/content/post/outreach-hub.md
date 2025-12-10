@@ -108,31 +108,39 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 
 ## MVP Features
 ### Notes
+![Notes animation](./outreach-hub/outreachnote.gif) 
 - This is where you will document the member call. 
 - Use this note instead of launching the Outreach / Intake modal from Actions. 
 - If you consent a member, you can add a handoff template 
 - An update to this feature is in progress. Soon this will look more like the feature-rich notes on the Timeline page.
 ### Outreach & Claims History
+![History animation](./outreach-hub/claimshistory.gif) 
 - **Outreach History** gives a snapshot of who on the Cityblock team the member has spoken to thus far. This helps to you pick up where other conversations left off.
 - **Claims History** is shortcut to get a picture of a member’s history and recent care.
 - You can click to expand and read details.
 ### Associated Phone Numbers
+![Phone number list](./outreach-hub/phonenumbers.png) 
 - The phone number with the star in a circle is the member’s primary phone number.
 - The other numbers are from the Member Info page.
 - Click the phone icon on the right to call.
 ### Verbal Member Consent Documents
+![Conset document list](./outreach-hub/verbalconsents.png) 
 - This widget is a shortcut to the consent documents completed over the phone. 
 - Click the document to open and complete.
 - All other consent documents are in the “Documents” page on the member’s profile. 
 - After MVP, we planned to cheat the performance problems by pre-filling the forms - the OS would say the member consented, then generate all the proper documents with a click. 
 ### Team
+![Teams widget](./outreach-hub/Team.gif) 
 - Click the yellow button to add an emergency contact.
 - You can add any type of the member’s team from this widget by clicking the plus icon in the top right corner of the widget.
 - To edit the team, click “Team” at the top of the widget or go to that page from the navigation.
 ### Assessments & Tools
+![Tools - new](./assessment1.png) 
+![Tools - in progress](./assessment2.png) 
 - This widget is another shortcut to commonly used Assessments & Tools.
 - You can also view previously completed Assessments & Tools or continue editing a draft.
 - ### Quality Opportunities
+- ![List of opportunities](./qualityopps.png) 
 - Quality opportunities are another way to approach discussing a member’s needs
 
 ## Rollout
