@@ -10,13 +10,13 @@ tags: ["Cityblock Health", "Design Lead", "User Research", "SaaS", "Onboarding"]
 Cityblock is a value-based healthcare company that’s focused on the Medicaid and dually eligible population. They serve those with the most complex needs, and often with the least resources, in the way they deserve to be treated—with respect, compassion, dignity, and time.  
 
 ## Problems
-- Cityblock members do not know that they have Cityblock’s coverage and need to be contacted and onboarded (“outreach” and “consented”). 
+- **Cityblock members do not know that they have Cityblock’s coverage** and need to be contacted and onboarded (“outreach” and “consented”). 
     - Our members may be distrustful of us; we're often starting at zero with them. 
-- Cityblock was rapidly scaling, and scaling across markets. The outreach team struggled with a manual and complex onboarding process. 
+- **Cityblock was rapidly scaling, and scaling across markets.** The outreach team struggled with a manual and complex onboarding process. 
     - Each market did things a little differently. All the differences needed to be taken ito account and operationalized. 
     - They needed to decrease the time it took to onboard a member *and* reduce the time it took to train an outreach specialist (OS), no matter their location.
     - OS leads needed more visibility into the work
-- Outreach had a workflow, but it was not integrated into Commons (Cityblock’s care system). They used too many tools to keep track of and had to duplicate work to hand-off a member. 
+- **Outreach had a workflow, but it was not integrated into Commons (Cityblock’s care system).** They used too many tools to keep track of and had to duplicate work to hand-off a member. 
     - Commons is a healthcare platform, where the care team manages their members. The outreach team used it, but it wasn't built for their purposes.
 ### Users  
 1. Outreach Specialists (OSs)  
@@ -64,7 +64,7 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - The worst part of conducting outreach is the monotony (lots of ringing with no answers)
     - Often new OSs are more successful than more experienced ones, but it takes time to learn the system and the script
 - **OSs need to have energy and enthusiasm when they talk to members**
->“I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her.”  
+>I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her. 
 *- Recently consented member*
 
 ## OS Leads and Stakeholder Interviews
@@ -95,7 +95,8 @@ Since we wanted a centralized outreach team and process, I had to understand wha
 - We can Shorten the time it takes to consent a member by creating the documentation on the call; OSs could have a conversation with the member while also gathering accurate information.
 
 # MVP
-The member’s outreach page is the base of the outreach and intake workflows in Commons. It contains shortcuts and widgets to facilitate easier outreach phone calls and member handoffs.   
+![Outreach Hub](./outreach-hub/outreach.png)
+The member’s outreach page is the base of the outreach and intake workflows in Commons. It contains shortcuts and widgets to facilitate easier outreach phone calls and member handoffs. 
 
 ## Feature Prioritization
 1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets.  
@@ -104,6 +105,43 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 3. **How can we get better data while reducing user effort?** New KPIs: # of tabs open and # of Sheets/market. 
 4. **Work with eng partner (Dan) to find the easy wins** - He wrote a script to duplicate the notes so Commons still worked, but the user could do half the work. We did this before actually building a proper fix so we can immediately reduce the work and build a little trust with the OSs. 
 5. **Rank features by asking the OS’s,** “What is the worst part of your job?” Attitude impacts the outreach success, so the better moods we can get the OSs in, the more effective they'll be (also, it's the nice thing to do) 
+
+## MVP Features
+### Notes
+![Notes animation](./outreach-hub/outreachnote.gif) 
+- This is where you will document the member call. 
+- Use this note instead of launching the Outreach / Intake modal from Actions. 
+- If you consent a member, you can add a handoff template 
+- An update to this feature is in progress. Soon this will look more like the feature-rich notes on the Timeline page.
+### Outreach & Claims History
+![History animation](./outreach-hub/claimshistory.gif) 
+- **Outreach History** gives a snapshot of who on the Cityblock team the member has spoken to thus far. This helps to you pick up where other conversations left off.
+- **Claims History** is shortcut to get a picture of a member’s history and recent care.
+- You can click to expand and read details.
+### Associated Phone Numbers
+![Phone number list](./outreach-hub/phonenumbers.png) 
+- The phone number with the star in a circle is the member’s primary phone number.
+- The other numbers are from the Member Info page.
+- Click the phone icon on the right to call.
+### Verbal Member Consent Documents
+![Conset document list](./outreach-hub/verbalconsents.png) 
+- This widget is a shortcut to the consent documents completed over the phone. 
+- Click the document to open and complete.
+- All other consent documents are in the “Documents” page on the member’s profile. 
+- After MVP, we planned to cheat the performance problems by pre-filling the forms - the OS would say the member consented, then generate all the proper documents with a click. 
+### Team
+![Conset document list](./outreach-hub/Team.gif) 
+- Click the yellow button to add an emergency contact.
+- You can add any type of the member’s team from this widget by clicking the plus icon in the top right corner of the widget.
+- To edit the team, click “Team” at the top of the widget or go to that page from the navigation.
+### Assessments & Tools
+![Tools - new](./assessment1.png) 
+![Tools - in progress](./assessment2.png) 
+- This widget is another shortcut to commonly used Assessments & Tools.
+- You can also view previously completed Assessments & Tools or continue editing a draft.
+- ### Quality Opportunities
+![List of opportunities](./qualityopps.png) 
+- Quality opportunities are another way to approach discussing a member’s needs
 
 ## Rollout
 Our team had 1 launch goal: Every OS tries it at least 1x in the first 2 weeks of release.  
