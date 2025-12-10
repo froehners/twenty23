@@ -9,7 +9,7 @@ tags: ["Personal", "Blog"]
 
 I haven't had a major overhaul on my public-facing portfolio in YEARS, 4ish? It wasn't really a huge problem and I was able to get 2 great jobs with it. 
 
-![Unfinished Portfolio](./unlaunched.png "The pink porfolio that never lived")
+![Unfinished Portfolio](./blog/unlaunched.png "The pink porfolio that never lived")
 
 I also built a new redesign about 2 years ago and never launched it. (A shame, because it was cute!) Then, my chosen CMS, Forestry.io, was discontinued/depricated in April of this year... Not being able to update it anymore was kind of stressing me out (what if I find a typo I haven't noticed in 5 years?!)
 
@@ -17,7 +17,7 @@ In the past I've used Stackbit to generate a site and then modified it to my lik
 
 I googled a bunch of ways to get a new template on Netlify, I opened every link for a template... I was looking for something FAST, lightweight and easy enough that I didn't have to spend a ton of time getting it up or learning, but different enough that it was fun to work on and learn. Then I just deployed one. 
 
-![Astro screenshot](./astroclip.jpg "Actions on Astro's theme page")
+![Astro screenshot](./blog//astroclip.jpg "Actions on Astro's theme page")
 It was SO easy to deploy directly from [Astro's theme page](https://astro.build/themes/details/astro-cactus/) - literally 1 click! I remember sitting on my couch late one night and tilting my head back and laughing because I was feeling totally lost until it was just NO BIG DEAL to have a brand new site to start editing. 
 
 So far Tailwind CSS and Markup have been really easy to get used to and I don't really miss having a CMS layer to my website. Easy!!
