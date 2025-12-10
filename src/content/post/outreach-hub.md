@@ -64,8 +64,9 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - The worst part of conducting outreach is the monotony (lots of ringing with no answers)
     - Often new OSs are more successful than more experienced ones, but it takes time to learn the system and the script
 - **OSs need to have energy and enthusiasm when they talk to members**
->I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her. 
-  -- Recently consented member*
+>I think her overwhelming positive attitude made me just actually join before I could get off the phone with her because she was just too nice. And you wouldn't want to be mean to her.
+
+-- Recently consented member
 
 ## OS Leads and Stakeholder Interviews
 - **Biggest need: Integrated tools for tracking OS performance and smart campaign experimentation**
@@ -78,7 +79,7 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - Reduce the OS mental load by providing scripts and tests (like flu shot campaigns)
     - Relevant member information (what they might be struggling with the most)
     - OSs need to be able to connect with a member. They don't necessarily need to be health professionals.
-
+![Workflow diagram](./outreach-hub/existingworkflow.jpg)  
 ## Software research
 
 ### Commons
