@@ -6,7 +6,7 @@ tags: ["Capitalize Money", "Design Lead", "Persuasive Design"]
 
 ---
 
-** This case study is still a WIP **
+**This case study is still a WIP**
 
 # Background
 ## How Capitalize Works (at the time)
