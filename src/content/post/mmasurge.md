@@ -1,7 +1,7 @@
 ---
 title: "MMA Surge Youtube Channel"
-description: "Web graphics made for the youtube partner channel MMA Surge"
-publishDate: "2012"
+description: "Web graphics made for the Youtube partner channel MMA Surge"
+publishDate: "1 Dec 2012"
 tags: ["Mahalo", "Media"]
 ---
 ![Screenshot of the MMA Surge Facebook header](./mahalo/mmasurgefb.png)
