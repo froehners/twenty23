@@ -1,6 +1,6 @@
 ---
 title: "MMA Surge Youtube Channel"
-description: "Web graphics made for the youtube channel"
+description: "Web graphics made for the youtube partner channel MMA Surge"
 publishDate: "2012"
 tags: ["Mahalo", "Media"]
 ---
