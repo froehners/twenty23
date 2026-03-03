@@ -11,11 +11,11 @@ This interactive ibook combines the full text of Pride & Prejudice with summarie
 
 **Roles in this project:** Cutting and constructing all the paper assets for the book, designing the character map, typesetting and assembling the entire book in iBooks Author in both landscape and portrait view, designing the book cover, and delivering the files to Apple. Responsibilities for the promotional trailer include writing the script, directing the talent, and executing the stop motion cinematography.
 
-![Full body illustration of Carloine, wearing a red dress with her hands on her hips](src/content/post/mahalo/Caroline.PNG)
-![Full body illustration of Collins; he's holding a book against his body](src/content/post/mahalo/Collins.PNG)
-![Full body illustration of Wickham; red military jacket and looking away from the viewer](src/content/post/mahalo/Wickham.PNG)
-![Full body illustration of Bingly; smart green jacket, with his legs at a jaunty angle](src/content/post/mahalo/Bingly.PNG)
-![Full body illustration of Lydia; her arms are spread wide as she leaps](src/content/post/mahalo/Lydia.PNG)
+![Full body illustration of Carloine wearing a red dress with her hands on her hips](src/content/post/mahalo/Caroline.PNG)
+![Full body illustration of Collins he's holding a book against his body](src/content/post/mahalo/Collins.PNG)
+![Full body illustration of Wickham red military jacket and looking away from the viewer](src/content/post/mahalo/Wickham.PNG)
+![Full body illustration of Bingly smart green jacket, with his legs at a jaunty angle](src/content/post/mahalo/Bingly.PNG)
+![Full body illustration of Lydia her arms are spread wide as she leaps](src/content/post/mahalo/Lydia.PNG)
 ![3 pages of the study guide previewed on devices](src/content/post/mahalo/ipaddevices.PNG)
 ![Portrait of Jane smirking](src/content/post/mahalo/Jane.PNG)
 ![Portrait of Mrs Bennet](src/content/post/mahalo/MrsBennet.PNG)
