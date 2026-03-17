@@ -2,7 +2,7 @@
 title: "Inside Consumer and Content Creator Website"
 description: "Early concepts for Inside.com's consumer and content creator (CMS) views"
 publishDate: "1 Jun 2013"
-tags: ["Mahalo", "UX/UI", "MVP", "Interaction Design"]
+tags: ["Mahalo", "UI Design", "MVP", "Interaction Design"]
 ---
 ![Three mobile devices, showing the article drilldown](./mahalo/insidemobile.png)
 This is an early version of Inside.com's consumer and CMS views. Both were designed with speed and efficiency in mind. The CMS was designed to be able to rely fully on keystrokes, no mouse.
