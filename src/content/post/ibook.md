@@ -1,7 +1,7 @@
 ---
 title: "Pride and Prejudice Interactive Study Guide"
-description: "Interactive iBook with the full text of the book and hand-built assets"
-publishDate: "2012"
+description: "Interactive iBook with the full text of the book and hand-built assets."
+publishDate: "1 June 2012"
 tags: ["Mahalo", "Interaction Design", "Media"]
 ---
 
