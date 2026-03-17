@@ -1,6 +1,6 @@
 ---
 title: "Metal Casting: Silver Ring Set"
-description: "The theme for this project was Man vs. Nature."
+description: "The theme for this metal jewelry studio art project was Man vs. Nature."
 publishDate: "1 Mar 2012"
 tags: ["Studio art", "School work"]
 ---
