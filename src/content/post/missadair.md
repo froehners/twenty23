@@ -9,5 +9,6 @@ tags: ["Typography", "School work"]
 Miss Adair was inspired by the Dead Like Me character Daisy Adair, who was feminine, strong, and liked the idea (and the look) of Catholicism. She is a flawed but lovable character
 
 ![The outline of the alphabet](./csulb/adair-outline.png)
+![The color version of the alphabet](./csulb/adair-color.png)
 
 *Project for Typography 2.*
