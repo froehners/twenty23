@@ -1,6 +1,6 @@
 ---
 title: "Ben's Bargains Tax Infographic"
-description: "Ben's Bargains asks their readers what they'd rather be doing"
+description: "What would you rather be doing instead of your taxes?"
 publishDate: "17 Mar 2014"
 tags: ["Internet Brands", "UI Design"]
 ---
