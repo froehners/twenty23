@@ -1,7 +1,7 @@
 ---
 title: "Outreach Hub"
 publishDate: "1 October 2021"
-description: "Outreach specialists at Cityblock were doing their jobs twice: once on the phone with members, and again afterward to document everything. They were juggling 4+ tabs, a handful of Google Sheets, and a care platform that was not built for them. We fixed that."
+description: "Outreach specialists had to repeat tasks, juggle multiple tabs and Google Sheets, and use a care platform that was not built for them. We fixed that."
 tags: ["Cityblock Health", "Design Lead", "User Research", "SaaS", "Onboarding"]
 
 ---
