@@ -168,4 +168,4 @@ On the ground, OSs referred to the new page as "our page." We eliminated the nee
     - All the markets used the new page, new OSs used it exclusively and most old OSs used it too (I also reached out to any stragglers to understand more)
  
 ---
-> Many thanks to the MA&T team, Kim D. and all the OSs and Leads who let me into their work. 
+*Many thanks to the MA&T team, Kim D. and all the OSs and Leads who let me into their work.*
