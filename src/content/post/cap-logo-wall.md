@@ -9,12 +9,14 @@ tags: ["Capitalize Money", "Design Lead", "Persuasive Design"]
 **This case study is still a WIP**
 
 # Background
-## How Capitalize Works (at the time)
-Capitalize offers free rollovers and earns a commission from financial instituions. Capitalize only receives comission from partnered financial instituions. Capitalize will move money to any institution, but prefers if user select their partners.
+Capitalize offers free rollvers and earns a commission when users roll over their 401(k) to a partnered financial institutions. The product works with any institution, but the business only gets paid when users select a partner. Getting that selection right — without feeling pushy or confusing — was one of the most important UX problems in the funnel.
 
-## Current State
-- Previous tests did not improve selection rate and had a negative impact on conversion 
-- Stakeholders wanted a page with all institutions grouped in categories.
+Previous tests on the partner selection page had not moved the needle, and some had hurt conversion. Stakeholders came to me with a clear request: build a page that grouped all institutions into categories. I wanted to determine whether that was the right answer.
+
+- **Timeline:** Q2 2022
+- **Role:** Lead Designer
+- **Team Composition:** Product Manager, Engineer, CEO
+- **Company:** Capitalize Money
 
 ## Goals & Requirements
 - Increase monetized rollovers
@@ -22,22 +24,21 @@ Capitalize offers free rollovers and earns a commission from financial instituio
 - Don’t negatively impact overall conversion
 
 # Process
-1. Question Assumptions
-2. Reduce Choices
-	1. Jam Study ([The Paradox of Choice](https://modelthinkers.com/mental-model/paradox-of-choice)) - If we reduce the number of choices a user has to make on this page, we will see higher conversion
-	2. Grouping for slight comparison of types - Behavior design class
-3. UserTesting
-	1. “See Fidelity, pick Fidelity”
-	2. Quick choices
-4. A/B Testing
+
+## Questioning Assumptions
+Stakeholders wanted to show every institution at once, organized into labeled groups. The logic made sense on paper: give users full information, organized for comparison.
+But I wasn’t sure that was how people actually made this decision. Before designing anything, I wanted to understand what users were optimizing for when choosing a provider, and whether showing everything helped or overwhelmed them.
+
+## What Research Told Us
+- Adding options did not help them choose, it just added noise. The ([The Paradox of Choice](https://modelthinkers.com/mental-model/paradox-of-choice)) research (Iyengar & Lepper's jam study) backed this up: more options, less action. We can assume if we reduce the number of choices a user has to make on this page, we will see higher conversion. 
+- Users weren't comparing. In UserTesting sessions, they picked the first logo they recognized and moved on ("See Fidelity, pick Fidelity"). They weren't reading the full list or making an informed choice.
+- Users described their goals in plain language, not financial jargon. Three clear types emerged from how people talked about what they wanted from an IRA — *set it and forget it*, *do it yourself*, and *invest in alternatives* (their words). Seeing the choice reduced to the simplest terms (instead of needing to do research on companies) made for quick choices.
 
 # Outcomes
-- **350%+** increase in preferred partner selection (!!!)
-- No decrease in user experience or product satisfaction (no increase in customer complaints, survey and NPS responses did not change)
+- **350%+ increase in preferred partner selection** from the logo wall (!!!)
+- No decrease in conversion, NPS, or product satisfaction; we shaped demand without degrading the experience
+
+Users weren't being pushed toward partners — they were being helped to find the one that matched what they  wanted.
+
 ## Next Steps
 This was a great solution when we had only a few partners. As we partnered with more IRA companies, we needed a way to scale this concept (this case study is on the way next!) 
-
-- **Timeline:** Q2 2022
-- **Role:** Lead Designer
-- **Team Composition:** Product Manager, Engineer, CEO
-- **Company:** Capitalize Money
