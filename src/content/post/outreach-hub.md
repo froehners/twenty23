@@ -141,7 +141,7 @@ Two research findings shaped everything: outreach specialists were doing their w
 - This widget is another shortcut to commonly used Assessments & Tools (preventing the OS from navigating away and needing to search for the desired tool).
 - OSs can also view previously completed Assessments & Tools or continue editing a draft.
 ### Quality Opportunities
-![List of opportunities](./outreach-hub/qualityopps.png) 
+[![List of opportunities](./outreach-hub/qualityopps.png)](./outreach-hub/qualityopps.png)
 - Quality opportunities are another way to approach discussing a member’s needs. The OS can try scheduling open quality opportunities to get the member onboard.
 
 ## Rollout
