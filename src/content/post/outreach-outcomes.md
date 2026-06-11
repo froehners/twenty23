@@ -11,11 +11,11 @@ tags: ["Cityblock Health", "Design Lead", "SaaS", "Data Strategy"]
 
 Outreach Specialists document each interaction with a member in "Outreach Notes", which had a dropdown for "outcome" of the outreach session. 
 
-![Original Outreach / Intake Note](./outreach-outcomes/original.png "Original Outreach Note")
+![Original Outreach / Intake Note](./cbh/original.png "Original Outreach Note")
 
 When I joined, Outreach Specialists had to write two notes - one for the timeline and one for the outreach-specific documentation (often the same thing, but the data was stored seperately. Once our team learned this, we had it automatically duplicate while we fixed the rest of the workflow. 
 
-![Original Timeline Note](./outreach-outcomes/Exploration.gif "Original Timeline Note")
+![Original Timeline Note](./cbh/Exploration.gif "Original Timeline Note")
 
 - I noticed they used "other" for a variety of outcomes (like mail, continuous ringing, and other hyper-specific outcomes)
 - The outcomes were not very specific
@@ -33,43 +33,43 @@ When I joined, Outreach Specialists had to write two notes - one for the timelin
 - Outreach Specialists found the tool to be annoying to use, it didn't match how they worked
 
 ## Mapping
-![Diagram showing the outreach outcomes](./outreach-outcomes/exp-map.png)
+![Diagram showing the outreach outcomes](./cbh/exp-map.png)
 - Complicated!
 - Lots of overlap on the outcomes
 - A bigger problem emberges: the logic for the outcomes is based on the participant, not the contact type. This is often incorrect and is limiting. Also, most participants have the same or similar outcomes, making the data not very useful.
 - Example of a possible outcome: Who did you speak to? No one. And what was the outcome? Unable to access home (?????)
 
 ## Documenting Logic in Google Sheets
-![Every possible outcome for each modality - each column is the same](./outreach-outcomes/Sheet1.png)
+![Every possible outcome for each modality - each column is the same](./cbh/Sheet1.png)
 - A lot of the options, while dynamic, were also irrelevant and complicating the task
-![Phone call outcomes based on who - many are the same](./outreach-outcomes/Sheet2.png)
+![Phone call outcomes based on who - many are the same](./cbh/Sheet2.png)
 - It just doesn't fit in with how we usually frame actions and sentences. An Outreach Specialist didn't call "No one" they called the member.
 
 ## Entity Relationship Modeling
-![Er Modeling Explanation](./outreach-outcomes/ermodeling.png)
+![Er Modeling Explanation](./cbh/ermodeling.png)
 - Since the logic was broken and the technology was old, we decided rethink it entirely
 - ER modeling breaks systems/journeys down what is actually happening during outreach and the possible outcomes. Outreach Outcomes are *actually* more simple than it first appeared.
 - There are only 6 ways to conduct outreach: Phone call, meeting or visit, text, email, mail, or researching the member
 - Phone
-  - ![Er Modeling for phone](./outreach-outcomes/map-phone.png)
+  - ![Er Modeling for phone](./cbh/map-phone.png)
 - Visit
-  - ![Er Modeling for visit](./outreach-outcomes/map-visit.png)
+  - ![Er Modeling for visit](./cbh/map-visit.png)
 - Mail
-  - ![Er Modeling for mail](./outreach-outcomes/map-mail.png)
+  - ![Er Modeling for mail](./cbh/map-mail.png)
 - Text
-  - ![Er Modeling for text](./outreach-outcomes/map-text.png)
+  - ![Er Modeling for text](./cbh/map-text.png)
   - Text, email, and mail are especially simple! You sent it and it went through or there was an error.
 
 # Proposed Solution
-![Sheet with all proposed statuses](./outreach-outcomes/proposed-all.jpg)
+![Sheet with all proposed statuses](./cbh/proposed-all.jpg)
 - Base logic on the **type** and the **outcome** of the outreach, not on the participant
 - Fewer initial choices with secondary options as needed
 - Remove "other" and enforce structured data!
 
 ## Breakdown: Phone call
 Adding the complexity of a secondary field to increase data accuracy and reduce UI clutter. 
-![Current vs proposed](./outreach-outcomes/currentvproposed.jpg)
-![Proposed phone statuses](./outreach-outcomes/proposed-phone.jpg)
+![Current vs proposed](./cbh/currentvproposed.jpg)
+![Proposed phone statuses](./cbh/proposed-phone.jpg)
 
 # Summary
 - Outcome logic is based on attempt type
@@ -81,7 +81,7 @@ Adding the complexity of a secondary field to increase data accuracy and reduce 
 
 
 # Vision
-![Screenshot of new note template](./outreach-outcomes/vision.png)
+![Screenshot of new note template](./cbh/vision.png)
 These outcomes can drive workflows within the system so we no longer have to rely on Outreach Specialists knowing what to do for each member that has been prioritized for outreach. 
 
 #### References + Thanks:
