@@ -80,7 +80,7 @@ Since we wanted a centralized outreach team and process, I had to understand wha
     - Relevant member information (what they might be struggling with the most)
     - OSs need to be able to connect with a member. They don't necessarily need to be health professionals.
 
-![Workflow diagram](./outreach-hub/existingworkflow.jpg)  
+![Workflow diagram](./cbh/existingworkflow.jpg)  
 
 ## Software research
 
@@ -90,14 +90,14 @@ Since we wanted a centralized outreach team and process, I had to understand wha
 
 ### Point of Sale Software
 The insight that unlocked the MVP concept: POS software does something we weren't doing. It keeps everything relevant on one page and makes data collection easy and standardized. We could shorten the time it takes to consent a member by documenting during the call, so OSs could talk with the member while also gathering accurate information.
-![Coffee POS on Dribbble](./outreach-hub/POS1.png)  
+![Coffee POS on Dribbble](./cbh/POS1.png)  
 [Source](https://dribbble.com/shots/15629660-Kopinan-POS-System-for-Coffee-Shop)  
-![Toast Central](./outreach-hub/POS2.png)  
+![Toast Central](./cbh/POS2.png)  
 [Source](https://posquote.com/best-restaurant-management-system-online-pos-posquote)  
 
 # MVP
 The member’s outreach page is the base of the outreach and intake workflows in Commons. It contains shortcuts and widgets to facilitate easier outreach phone calls and member handoffs. 
-![Outreach Hub](./outreach-hub/outreach.png)
+![Outreach Hub](./cbh/outreach.png)
 
 ## Feature Prioritization
 1. **Validate and streamline workflows with Stakeholders** - what work is actually necessary, what can be simplified across markets.  
@@ -110,38 +110,38 @@ Stakeholders didn't know all the complexity across markets and workflows. We ali
 ## MVP Features
 Two research findings shaped everything: outreach specialists were doing their work from memory, and they were documenting every call twice. The features below are organized around those two problems. Some widgets — phone numbers, consent documents, assessments — reduce friction, but Notes and Outreach History are what changed how the job actually felt.
 ### Notes
-![Notes animation](./outreach-hub/outreachnote.gif) 
+![Notes animation](./cbh/outreachnote.gif) 
 - This is where OSs document the member call. 
 - This note replaces launching the Outreach / Intake modal from Actions. 
 - If an OS consents a member, then they can also add a handoff template 
 ### Outreach & Claims History
-![History animation](./outreach-hub/claimshistory.gif) 
+![History animation](./cbh/claimshistory.gif) 
 - **Outreach History** gives a snapshot of who on the Cityblock team the member has spoken to thus far. This helps The OSs to pick up where other conversations left off.
 - **Claims History** is shortcut to get a picture of a member’s history and recent care.
 - You can click to expand and read details.
 ### Associated Phone Numbers
-![Phone number list](./outreach-hub/phonenumbers.png) 
+![Phone number list](./cbh/phonenumbers.png) 
 - The phone number with the star in a circle is the member’s primary phone number.
 - The other numbers are from the Member Info page.
 - This widget gathers any numbers that might help the OS reach the member
 - OSs can now click the phone icon on the right to call (instead of copying the number and pasting it into the calling app).
 ### Verbal Member Consent Documents
-![Conset document list](./outreach-hub/verbalconsents.png) 
+![Conset document list](./cbh/verbalconsents.png) 
 - OSs no longer have to scroll through the many documents in a member's profile; this widget is a shortcut to the consent documents completed over the phone. 
 - They can click the document to open and complete.
 - All other consent documents are still in the “Documents” page on the member’s profile. 
 - After MVP, we planned to cheat some performance problems by pre-filling the forms - the OS would say the member consented, then generate all the proper documents with a click. 
 ### Team
-![Teams widget](./outreach-hub/Team.gif) 
+![Teams widget](./cbh/Team.gif) 
 - This widget helps the OS know what is still incomplete - they can click the yellow button to add an emergency contact.
 - They can add any type of the member’s team from this widget by clicking the plus icon in the top right corner.
 ### Assessments & Tools
-![Tools - new](./outreach-hub/assessment1.png) 
-![Tools - in progress](./outreach-hub/assessment2.png) 
+![Tools - new](./cbh/assessment1.png) 
+![Tools - in progress](./cbh/assessment2.png) 
 - This widget is another shortcut to commonly used Assessments & Tools (preventing the OS from navigating away and needing to search for the desired tool).
 - OSs can also view previously completed Assessments & Tools or continue editing a draft.
 ### Quality Opportunities
-[![List of opportunities](./outreach-hub/qualityopps.png)](./outreach-hub/qualityopps.png)
+![List of opportunities](./cbh/qualityopps.png)
 - Quality opportunities are another way to approach discussing a member’s needs. The OS can try scheduling open quality opportunities to get the member onboard.
 
 ## Rollout
