@@ -36,7 +36,7 @@ The three categories — Automated, self-directed, and crypto, later renamed *Se
 ![Vertical list of the categories](./capitalize/round1@2x.png)
 The first version showed all institutions within each category — our picks prominently, with others in a secondary tier below. In UserTesting sessions, a pattern emerged immediately: users weren't reading the categories or comparing options. They were scanning for a logo they recognized and stopping there. If they saw Fidelity, they picked Fidelity. The category structure wasn't guiding the decision — brand recognition was overriding it.
 
-([The Paradox of Choice](https://modelthinkers.com/mental-model/paradox-of-choice)) (Iyengar & Lepper's jam study) backed up what we were seeing: more options, less action. The insight pointed to a clear next move: non-partner logos needed to stop competing for attention upfront. Progressive disclosure surfaced here as well: users who didn't recognize the top pick naturally wanted to see more options.
+[The Paradox of Choice](https://modelthinkers.com/mental-model/paradox-of-choice) (Iyengar & Lepper's jam study) backed up what we were seeing: more options, less action. The insight pointed to a clear next move: non-partner logos needed to stop competing for attention upfront. Progressive disclosure surfaced here as well: users who didn't recognize the top pick naturally wanted to see more options.
 
 ## Round 2: Reducing to one
 ![3 columns of categories](./capitalize/round2@2x.png)
