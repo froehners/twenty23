@@ -1,7 +1,7 @@
 ---
 title: "Categorized Logo Wall"
 publishDate: "1 June 2022"
-description: "My first project at Capitalize. Stakeholders already knew what they wanted to build. I wanted to get it right."
+description: "My first project at Capitalize. Stakeholders already knew what they wanted to build. I wanted to get it right. (Spoiler: 350% increase!)"
 tags: ["Capitalize Money", "Design Lead", "Persuasive Design"]
 
 ---
