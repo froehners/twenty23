@@ -21,5 +21,5 @@ export const SOCIAL_LINKS = {
 	goodreads: "https://www.goodreads.com/user/show/77700601-stephanie",
 	instagram: "https://www.instagram.com/froehner/",
 	depop: "https://www.depop.com/froehner/",
-	email: "froehnerstephanie@gmail.com",
+	email: "mailto:froehnerstephanie@gmail.com",
 };
