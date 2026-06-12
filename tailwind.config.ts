@@ -28,8 +28,8 @@ export default {
 			},
 			fontFamily: {
 				display: ['Caprasimo', 'serif'],
-        body: ['Barlow', 'sans-serif'],
-        // Add any custom fonts here
+				body: ['Barlow', 'sans-serif'],
+				// Add any custom fonts here
 				sans: [...fontFamily.sans],
 				serif: [...fontFamily.serif],
 			},
@@ -112,7 +112,7 @@ export default {
 					},
 				},
 				".title": {
-					"@apply text-3xl font-display text-accent-2": {},
+					"@apply text-4xl font-display text-accent-2": {},
 				},
 			});
 		}),
