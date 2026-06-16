@@ -17,17 +17,29 @@ const {
 
 <html lang={siteConfig.lang}>
 	<head>
-		<BaseHead title={title} description={description} ogImage={ogImage} articleDate={articleDate} />
+		<BaseHead
+			title={title}
+			description={description}
+			ogImage={ogImage}
+			articleDate={articleDate}
+		/>
 		<script define:vars={{ siteConfig }}>
 			const root = document.documentElement;
-			const colorThemeMetaTag = document.querySelector("meta[name='theme-color']");
+			const colorThemeMetaTag = document.querySelector(
+				"meta[name='theme-color']",
+			);
 
 			// get user preference of dark mode, 1st local storage, 2nd browser
 			function getThemePreference() {
-				if (typeof localStorage !== "undefined" && localStorage.getItem("theme")) {
+				if (
+					typeof localStorage !== "undefined" &&
+					localStorage.getItem("theme")
+				) {
 					return localStorage.getItem("theme");
 				}
-				return window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+				return window.matchMedia("(prefers-color-scheme: dark)").matches
+					? "dark"
+					: "light";
 			}
 
 			const isDark = getThemePreference() === "dark";
@@ -38,11 +50,16 @@ const {
 				// set the meta attribute
 				colorThemeMetaTag.setAttribute(
 					"content",
-					siteConfig[rootIsDark ? "themeColorDark" : "themeColorLight"]
+					siteConfig[
+						rootIsDark ? "themeColorDark" : "themeColorLight"
+					],
 				);
 				// store user preference
 				if (typeof localStorage !== "undefined") {
-					localStorage.setItem("theme", rootIsDark ? "dark" : "light");
+					localStorage.setItem(
+						"theme",
+						rootIsDark ? "dark" : "light",
+					);
 				}
 			});
 			observer.observe(root, { attributeFilter: ["class"] });
@@ -52,6 +69,7 @@ const {
 		</script>
 	</head>
 	<body>
+		<script async src="https://scripts.withcabin.com/hello.js"></script>
 		<SkipLink />
 		<Header />
 		<main id="main" class="flex-1">
